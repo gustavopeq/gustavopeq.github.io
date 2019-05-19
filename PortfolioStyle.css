@@ -1,0 +1,36 @@
+body
+{
+    background-color: rgb(233, 233, 233);
+}
+
+.navbar-brand
+{
+    font-size: 25px;
+    margin-left: 2.5%;
+}
+
+.navbar-nav
+{
+    margin-right: 2%;
+}
+
+.card-text
+{
+    font-size: 19px;
+}
+
+@media (min-width:576px) {
+    .card-columns {
+      column-count: 2;
+    }
+}
+  @media (min-width:768px) {
+    .card-columns {
+      column-count: 2;
+    }
+}
+@media (min-width:992px) {
+    .card-columns {
+      column-count: 3;
+    }
+}
