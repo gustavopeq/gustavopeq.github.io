@@ -19,6 +19,18 @@ body
     font-size: 19px;
 }
 
+.cardHyperlink
+{
+  color : white;
+  text-decoration: underline;
+}
+
+.cardHyperlink:hover
+{
+  color: #1E48FF;
+  text-decoration: none;
+}
+
 @media (min-width:576px) {
     .card-columns {
       column-count: 2;
