@@ -1,4 +1,4 @@
-$(document).ready(function()
+/*$(document).ready(function()
 {
     $('.card-img-top').mouseover(function()
     {
@@ -14,3 +14,4 @@ $(document).ready(function()
         $(this).attr("src", jpgSrc);
     });
 });
+*/
