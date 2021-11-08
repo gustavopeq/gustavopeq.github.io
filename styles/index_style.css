@@ -66,6 +66,10 @@ hr{
   float: right;
 }
 
+.defaultPageText{
+  margin: 0px 16px 16px 16px;
+}
+
 
 
 @media (min-width:576px) {
