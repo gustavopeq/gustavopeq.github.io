@@ -52,10 +52,7 @@ hr{
 }
 
 .horizontal-flex-container {
-  display: flex;
-  flex-flow: row nowrap;
-  justify-content: center;
-  margin: 5px;
+  margin: 50px 5px 5px 5px;
 }
 
 .horizontal-flex-container img{
